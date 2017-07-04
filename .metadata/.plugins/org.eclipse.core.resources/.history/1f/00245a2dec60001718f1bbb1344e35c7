@@ -1,0 +1,17 @@
+package projects;
+
+
+public class Multiplicationof9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Multiples of Nine");
+		System.out.println(" ");
+		
+		System.out.println(1 * 9);
+		
+		
+	}
+
+}

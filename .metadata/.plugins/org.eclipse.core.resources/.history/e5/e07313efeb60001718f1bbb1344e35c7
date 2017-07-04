@@ -1,0 +1,19 @@
+package projects;
+
+import java.util.Scanner;
+
+public class Multiplesof9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Multiples of Nine");
+		
+		Scanner nine = new Scanner(System.in);
+		System.out.println("Enter a number:");
+		int number = nine.nextInt();
+		
+		System.out.println(number * 9);
+	}
+
+}
